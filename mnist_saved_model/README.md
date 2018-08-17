@@ -1,6 +1,8 @@
-MNIST SavedModel Information
+# MNIST SavedModel Information
 
-To train an MNIST model and save as SavedModel.
+This directory contains a TensorFlow MNIST SavedModel.
+
+To train a new MNIST model and save as SavedModel.
 
 ```
 $ pwd

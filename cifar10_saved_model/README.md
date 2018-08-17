@@ -1,6 +1,8 @@
-CIFAR-10 SavedModel Information
+# CIFAR-10 SavedModel Information
 
-To train a CIFAR-10 model and save as SavedModel.
+This directory contains a TensorFlow CIFAR-10 SavedModel.
+
+To train a new CIFAR-10 model and save as SavedModel.
 
 ```
 $ pwd

@@ -1,6 +1,7 @@
+# Higgs Boosted Trees Data Information
 
-Higgs data to train a Higgs Boosted Trees SavedModel can be downloaded using the boosted_trees
-data_download.py script.
+Higgs data to train a Higgs Boosted Trees SavedModel can be downloaded using the `boosted_trees`
+`data_download.py` script.
 
 ```
 $ pwd

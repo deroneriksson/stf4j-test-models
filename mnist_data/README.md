@@ -1,3 +1,4 @@
+# MNIST Data Information
 
 MNIST data can be downloaded from http://yann.lecun.com/exdb/mnist/ and extracted
 to `stf4j-test-models/mnist_data`. After this, the `stf4j-test-models/mnist_data` directory

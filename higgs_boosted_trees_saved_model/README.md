@@ -1,6 +1,8 @@
-Higgs Boosted Trees SavedModel Information
+# Higgs Boosted Trees SavedModel Information
 
-To train a Higgs Boosted Trees model and save as SavedModel.
+This directory contains a TensorFlow Higgs Boosted Trees SavedModel.
+
+To train a new Higgs Boosted Trees model and save as SavedModel.
 
 ```
 $ pwd
